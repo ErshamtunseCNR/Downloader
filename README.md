@@ -89,6 +89,8 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1 - [720P_4000K_45192525](https://github.com/ErshamtunseCNR/Downloader/tree/main/downloads/720P_4000K_45192525)
@@ -98,5 +100,6 @@ a
 5 - [index-v1-a1](https://github.com/ErshamtunseCNR/Downloader/tree/main/downloads/index-v1-a1)
 6 - [lively_setup_x86_full_v2210](https://github.com/ErshamtunseCNR/Downloader/tree/main/downloads/lively_setup_x86_full_v2210)
 7 - [v2rayN-windows-64](https://github.com/ErshamtunseCNR/Downloader/tree/main/downloads/v2rayN-windows-64)
+8 - [youtube-music-3.11.0-x64.nsis](https://github.com/ErshamtunseCNR/Downloader/tree/main/downloads/youtube-music-3.11.0-x64.nsis)
 
 ---
