@@ -87,6 +87,8 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1 - [720P_4000K_45192525](https://github.com/ErshamtunseCNR/Downloader/tree/main/downloads/720P_4000K_45192525)
@@ -94,6 +96,7 @@ a
 3 - [Music.TV.HQ](https://github.com/ErshamtunseCNR/Downloader/tree/main/downloads/Music.TV.HQ)
 4 - [VBCABLE_Driver_Pack45](https://github.com/ErshamtunseCNR/Downloader/tree/main/downloads/VBCABLE_Driver_Pack45)
 5 - [index-v1-a1](https://github.com/ErshamtunseCNR/Downloader/tree/main/downloads/index-v1-a1)
-6 - [v2rayN-windows-64](https://github.com/ErshamtunseCNR/Downloader/tree/main/downloads/v2rayN-windows-64)
+6 - [lively_setup_x86_full_v2210](https://github.com/ErshamtunseCNR/Downloader/tree/main/downloads/lively_setup_x86_full_v2210)
+7 - [v2rayN-windows-64](https://github.com/ErshamtunseCNR/Downloader/tree/main/downloads/v2rayN-windows-64)
 
 ---
