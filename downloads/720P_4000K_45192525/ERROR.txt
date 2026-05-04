@@ -1,0 +1,22 @@
+========================================================
+  AVASAM Download Error Report
+  https://avasam.ir
+========================================================
+
+File: 720P_4000K_45192525.mp4
+URL: https://ev.phncdn.com/c6251/videos/202604/13/45192525/720P_4000K_45192525.mp4?validfrom=1777915391&validto=1777922591&rate=500k&burst=1400k&ip=170.247.223.252&ipa=1&hash=9O762blxso4wyzeC1ze8Wos%2FjXc%3D
+Date: 2026-05-04 18:25:34 UTC
+
+ERROR:
+#=#=#                                                                          ##O#-#                                                                         ##O=#  #                                                                       curl: (22) The requested URL returned error: 404
+
+========================================================
+  Possible Solutions:
+========================================================
+- Check if the URL is correct and accessible
+- The file may have been removed or moved
+- The server may require authentication
+- For SourceForge: Try using the direct download link
+- Some servers block automated downloads (403 Forbidden)
+- Try again later if it is a temporary server issue
+========================================================
