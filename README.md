@@ -77,8 +77,11 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1 - [VBCABLE_Driver_Pack45](https://github.com/ErshamtunseCNR/Downloader/tree/main/downloads/VBCABLE_Driver_Pack45)
+2 - [v2rayN-windows-64](https://github.com/ErshamtunseCNR/Downloader/tree/main/downloads/v2rayN-windows-64)
 
 ---
