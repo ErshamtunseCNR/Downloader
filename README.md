@@ -119,6 +119,8 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1 - [1WVPB7x9UlErXDnndwgNIJ](https://github.com/ErshamtunseCNR/Downloader/tree/main/downloads/1WVPB7x9UlErXDnndwgNIJ)
@@ -130,19 +132,20 @@ a
 7 - [Git-2.54.0-64-bit](https://github.com/ErshamtunseCNR/Downloader/tree/main/downloads/Git-2.54.0-64-bit)
 8 - [Living.Room](https://github.com/ErshamtunseCNR/Downloader/tree/main/downloads/Living.Room)
 9 - [Music.TV.HQ](https://github.com/ErshamtunseCNR/Downloader/tree/main/downloads/Music.TV.HQ)
-10 - [Release](https://github.com/ErshamtunseCNR/Downloader/tree/main/downloads/Release)
-11 - [Simple.System.3D](https://github.com/ErshamtunseCNR/Downloader/tree/main/downloads/Simple.System.3D)
-12 - [VBCABLE_Driver_Pack45](https://github.com/ErshamtunseCNR/Downloader/tree/main/downloads/VBCABLE_Driver_Pack45)
-13 - [YouTube-Music-Web-Setup-3.11.0](https://github.com/ErshamtunseCNR/Downloader/tree/main/downloads/YouTube-Music-Web-Setup-3.11.0)
-14 - [_moon_5133](https://github.com/ErshamtunseCNR/Downloader/tree/main/downloads/_moon_5133)
-15 - [doaction](https://github.com/ErshamtunseCNR/Downloader/tree/main/downloads/doaction)
-16 - [download64f](https://github.com/ErshamtunseCNR/Downloader/tree/main/downloads/download64f)
-17 - [index](https://github.com/ErshamtunseCNR/Downloader/tree/main/downloads/index)
-18 - [index-v1-a1](https://github.com/ErshamtunseCNR/Downloader/tree/main/downloads/index-v1-a1)
-19 - [lively_setup_x86_full_v2210](https://github.com/ErshamtunseCNR/Downloader/tree/main/downloads/lively_setup_x86_full_v2210)
-20 - [rvV2.1](https://github.com/ErshamtunseCNR/Downloader/tree/main/downloads/rvV2.1)
-21 - [titanium_wallpaper_v122](https://github.com/ErshamtunseCNR/Downloader/tree/main/downloads/titanium_wallpaper_v122)
-22 - [v2rayN-windows-64](https://github.com/ErshamtunseCNR/Downloader/tree/main/downloads/v2rayN-windows-64)
-23 - [youtube-music-3.11.0-x64.nsis](https://github.com/ErshamtunseCNR/Downloader/tree/main/downloads/youtube-music-3.11.0-x64.nsis)
+10 - [PCSX2-v2.6.3-windows-x64-installer](https://github.com/ErshamtunseCNR/Downloader/tree/main/downloads/PCSX2-v2.6.3-windows-x64-installer)
+11 - [Release](https://github.com/ErshamtunseCNR/Downloader/tree/main/downloads/Release)
+12 - [Simple.System.3D](https://github.com/ErshamtunseCNR/Downloader/tree/main/downloads/Simple.System.3D)
+13 - [VBCABLE_Driver_Pack45](https://github.com/ErshamtunseCNR/Downloader/tree/main/downloads/VBCABLE_Driver_Pack45)
+14 - [YouTube-Music-Web-Setup-3.11.0](https://github.com/ErshamtunseCNR/Downloader/tree/main/downloads/YouTube-Music-Web-Setup-3.11.0)
+15 - [_moon_5133](https://github.com/ErshamtunseCNR/Downloader/tree/main/downloads/_moon_5133)
+16 - [doaction](https://github.com/ErshamtunseCNR/Downloader/tree/main/downloads/doaction)
+17 - [download64f](https://github.com/ErshamtunseCNR/Downloader/tree/main/downloads/download64f)
+18 - [index](https://github.com/ErshamtunseCNR/Downloader/tree/main/downloads/index)
+19 - [index-v1-a1](https://github.com/ErshamtunseCNR/Downloader/tree/main/downloads/index-v1-a1)
+20 - [lively_setup_x86_full_v2210](https://github.com/ErshamtunseCNR/Downloader/tree/main/downloads/lively_setup_x86_full_v2210)
+21 - [rvV2.1](https://github.com/ErshamtunseCNR/Downloader/tree/main/downloads/rvV2.1)
+22 - [titanium_wallpaper_v122](https://github.com/ErshamtunseCNR/Downloader/tree/main/downloads/titanium_wallpaper_v122)
+23 - [v2rayN-windows-64](https://github.com/ErshamtunseCNR/Downloader/tree/main/downloads/v2rayN-windows-64)
+24 - [youtube-music-3.11.0-x64.nsis](https://github.com/ErshamtunseCNR/Downloader/tree/main/downloads/youtube-music-3.11.0-x64.nsis)
 
 ---
